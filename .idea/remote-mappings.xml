@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://rhb@10.21.76.115:22/home/rhb/.conda/envs/pt_geometric/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/gpusharedata/rhb/fmri/fmri_TCN_exp_Script" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://rhb@10.21.76.116:22/home/rhb/.conda/envs/pt_geometric/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/gpusharedata/rhb/fmri/fmri_TCN_exp_Script" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://rhb@10.21.76.115:22/home/rhb/.conda/envs/riptest2/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/gpusharedata/rhb/fmri/fmri_TCN_exp_Script" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
